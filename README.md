@@ -11,4 +11,3 @@ This project will involve fine-tuning a pre-trained language model (e.g., bert-b
 1. Clone the repository:
    ```bash
    git clone https://github.com/VishaalChandrasekar0203/Fine-Tuning-a-Pre-Trained-LLM-for-Named-Entity-Recognition.git
-   cd your-repo-name
